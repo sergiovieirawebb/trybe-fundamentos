@@ -18,11 +18,11 @@ let message;
 
 switch (chessPiece.toLowerCase()) {
   case 'bispo':
-    message = 'Movimento do Bispo: Diagonais';
+    message = 'Bispo -> Diagonais';
     break;
 
   case 'rei':
-    message = 'Movimento do Torre: Vertical e Horizontal ';
+    message = 'Torre -> Vertical e Horizontal ';
     break;
 
   default:
