@@ -10,6 +10,7 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 #### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
 
 - [x] 4.1 - Primeiros passos
+- [x] 4.2 - Array e loop For
 
 ---
 
