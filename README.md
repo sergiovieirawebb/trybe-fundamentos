@@ -11,6 +11,7 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 
 - [x] 4.1 - Primeiros passos
 - [x] 4.2 - Array e loop For
+- [x] 4.3 - Lógica de Programação e Algoritmos
 
 ---
 
