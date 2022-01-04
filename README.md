@@ -1,4 +1,3 @@
-
 # Trybe - Exercícios
 
 __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor Web](https://www.linkedin.com/in/sergiovieirawebb/)__ no Curso da [Trybe](https://www.betrybe.com/)... :rocket:
@@ -13,6 +12,10 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 - [x] 4.2 - Array e loop For
 - [x] 4.3 - Lógica de Programação e Algoritmos
 - [x] 4.4 - Objetos e funções
+
+#### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+
+- [x] 5.1 - DOM e seletores
 
 ---
 
