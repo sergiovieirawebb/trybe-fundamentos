@@ -17,6 +17,10 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 
 - [x] 5.1 - DOM e seletores
 
+#### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]()
+
+- [x] 6.3 - CSS Flexbox - Parte I
+
 ---
 
 Criado por __[Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/)__ - Estudante de Desenvolvimento WEB na [Trybe](https://www.betrybe.com/)... :rocket:
