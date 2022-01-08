@@ -20,6 +20,7 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 #### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]()
 
 - [x] 6.3 - CSS Flexbox - Parte I
+- [x] 6.4 - CSS Flexbox - Parte II
 
 ---
 
