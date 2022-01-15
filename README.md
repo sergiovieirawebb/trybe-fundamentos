@@ -22,6 +22,10 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 - [x] 6.3 - CSS Flexbox - Parte I
 - [x] 6.4 - CSS Flexbox - Parte II
 
+#### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]()
+
+- [x] 7.1 - ES6 - let, const, arrow functions e template literals
+
 ---
 
 Criado por __[Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/)__ - Estudante de Desenvolvimento WEB na [Trybe](https://www.betrybe.com/)... :rocket:
