@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang='pt-br'>
+
+<head>
+  <meta charset='UTF-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+
+  <title>Calculadora</title>
+</head>
+
+<body>
+  <p>Informe dois números para realizar a soma:</p>
+  <label for='value1'>Valor 1:</label>
+  <input type='text' id='value1'>
+
+  <label for='value2'>Valor 2:</label>
+  <input type='text' id='value2'>
+
+  <button id='button'>Somar</button>
+
+  <p id='result'></p>
+
+  <script>
+    const verifyIsNumber = (value1, value2) => {
+      if (!value1 || !value2) {
+        throw new Error('Informe dois valores para realizar a soma.')
+      } else if (isNaN(value1) || isNaN(value2)) {
+        throw new Error('Informe apenas numeros para realizar a soma')
+      }
+    }
+
+    const sum = () => {
+      let number1 = document.getElementById('value1');
+      let number2 = document.getElementById('value2');
+      let result = document.getElementById('result');
+
+      try {
+        verifyIsNumber(number1.value, number2.value);
+        const sum = parseInt(number1.value) + parseInt(number2.value);
+        result.innerHTML = `Resultado: ${sum}`;
+
+      } catch (error) {
+        result.innerHTML = error.message;
+
+      } finally {
+        number1.value = '';
+        number2.value = '';
+      }
+    }
+
+    window.onload = () => {
+      const button = document.getElementById('button');
+      button.addEventListener('click', sum);
+    }
+  </script>
+</body>
+
+</html>

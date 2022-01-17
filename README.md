@@ -24,7 +24,8 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 
 #### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]()
 
-- [x] 7.1 - ES6 - let, const, arrow functions e template literals
+- [x] 7.1 - let, const, arrow functions e template literals
+- [x] 7.2 - Fluxo de exceção e Objetos
 
 ---
 
