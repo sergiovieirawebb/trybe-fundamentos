@@ -1,4 +1,4 @@
-# Trybe - Exercícios
+# Exercícios
 
 __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor Web](https://www.linkedin.com/in/sergiovieirawebb/)__ no Curso da [Trybe](https://www.betrybe.com/)... :rocket:
 
