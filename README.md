@@ -27,6 +27,18 @@ __Hard Skills__ desenvolvidas durante a minha formação como __[Desenvolvedor W
 - [x] 7.1 - let, const, arrow functions e template literals
 - [x] 7.2 - Fluxo de exceção e Objetos
 
+#### Bloco 8: [Higher Order Functions do JavaScript ES6]()
+
+- [x] 8.2 - forEach, find, some, every, sort
+- [x] 8.3 - map e filter
+- [x] 8.4 - reduce
+- [x] 8.5 - spread operator, parâmetro rest, destructuring e mais
+
+#### Bloco 9: [JavaScript e Testes Assíncronos]()
+
+- [x] 9.1 - Callbacks
+- [x] 9.2 - Fetch API e async/await
+
 ---
 
 Criado por __[Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/)__ - Estudante de Desenvolvimento WEB na [Trybe](https://www.betrybe.com/)... :rocket:
