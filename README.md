@@ -41,4 +41,4 @@ __Hard Skills__ desenvolvidas durante o módulo de fundamentos no Curso da [Tryb
 
 ---
 
-Criado por __[Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/)__ - Estudante de Desenvolvimento WEB na [Trybe](https://www.betrybe.com/)... :rocket:
+[Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/), estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)... :rocket:
